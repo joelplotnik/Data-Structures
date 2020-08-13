@@ -1,0 +1,364 @@
+Choose from these choices
+-------------------------
+
+1 - Decimal to Binary
+2 - Decimal to Hexadecimal
+3 - Binary to Decimal
+4 - Binary to Hexadecimal
+5 - Hexadecimal to Decimal
+6 - Hexadecimal to Binary
+7 - Quit
+Choice: 1
+Please enter a Decimal number between 0 and 2,147,483,647: 65535
+Decimal to Binary: 0000 0000 0000 0000 1111 1111 1111 1111
+
+Choose from these choices
+-------------------------
+
+1 - Decimal to Binary
+2 - Decimal to Hexadecimal
+3 - Binary to Decimal
+4 - Binary to Hexadecimal
+5 - Hexadecimal to Decimal
+6 - Hexadecimal to Binary
+7 - Quit
+Choice: 1
+Please enter a Decimal number between 0 and 2,147,483,647: 1000000
+Decimal to Binary: 0000 0000 0000 1111 0100 0010 0100 0000
+
+Choose from these choices
+-------------------------
+
+1 - Decimal to Binary
+2 - Decimal to Hexadecimal
+3 - Binary to Decimal
+4 - Binary to Hexadecimal
+5 - Hexadecimal to Decimal
+6 - Hexadecimal to Binary
+7 - Quit
+Choice: 1
+Please enter a Decimal number between 0 and 2,147,483,647: 1234567890
+Decimal to Binary: 0100 1001 1001 0110 0000 0010 1101 0010
+
+Choose from these choices
+-------------------------
+
+1 - Decimal to Binary
+2 - Decimal to Hexadecimal
+3 - Binary to Decimal
+4 - Binary to Hexadecimal
+5 - Hexadecimal to Decimal
+6 - Hexadecimal to Binary
+7 - Quit
+Choice: 2
+Please enter a Decimal number between 0 and 2,147,483,647: 65535
+Decimal to Hexadecimal: 0000FFFF
+
+Choose from these choices
+-------------------------
+
+1 - Decimal to Binary
+2 - Decimal to Hexadecimal
+3 - Binary to Decimal
+4 - Binary to Hexadecimal
+5 - Hexadecimal to Decimal
+6 - Hexadecimal to Binary
+7 - Quit
+Choice: 2
+Please enter a Decimal number between 0 and 2,147,483,647: 1000000
+Decimal to Hexadecimal: 000F4240
+
+Choose from these choices
+-------------------------
+
+1 - Decimal to Binary
+2 - Decimal to Hexadecimal
+3 - Binary to Decimal
+4 - Binary to Hexadecimal
+5 - Hexadecimal to Decimal
+6 - Hexadecimal to Binary
+7 - Quit
+Choice: 2
+Please enter a Decimal number between 0 and 2,147,483,647: 1234567890
+Decimal to Hexadecimal: 499602D2
+
+Choose from these choices
+-------------------------
+
+1 - Decimal to Binary
+2 - Decimal to Hexadecimal
+3 - Binary to Decimal
+4 - Binary to Hexadecimal
+5 - Hexadecimal to Decimal
+6 - Hexadecimal to Binary
+7 - Quit
+Choice: 3
+Please enter a 32-bit binary number (No space between nibbles): 01100101110011011010111000000101 
+Please enter a 32-bit binary number (No space between nibbles): 01100101110011011010111000000101
+Binary to Decimal: 1707978245
+
+Choose from these choices
+-------------------------
+
+1 - Decimal to Binary
+2 - Decimal to Hexadecimal
+3 - Binary to Decimal
+4 - Binary to Hexadecimal
+5 - Hexadecimal to Decimal
+6 - Hexadecimal to Binary
+7 - Quit
+Choice: 3
+Please enter a 32-bit binary number (No space between nibbles): 01111111111111110010000111010011
+Binary to Decimal: 2147426771
+
+Choose from these choices
+-------------------------
+
+1 - Decimal to Binary
+2 - Decimal to Hexadecimal
+3 - Binary to Decimal
+4 - Binary to Hexadecimal
+5 - Hexadecimal to Decimal
+6 - Hexadecimal to Binary
+7 - Quit
+Choice: 3
+Please enter a 32-bit binary number (No space between nibbles): 00000000000000000000000000000010
+Binary to Decimal: 2
+
+Choose from these choices
+-------------------------
+
+1 - Decimal to Binary
+2 - Decimal to Hexadecimal
+3 - Binary to Decimal
+4 - Binary to Hexadecimal
+5 - Hexadecimal to Decimal
+6 - Hexadecimal to Binary
+7 - Quit
+Choice: 4
+Please enter a 32-bit binary number (No space between nibbles): 01100101110011011010111000000101
+Binary to Hexadecimal: 65CDAE05
+
+Choose from these choices
+-------------------------
+
+1 - Decimal to Binary
+2 - Decimal to Hexadecimal
+3 - Binary to Decimal
+4 - Binary to Hexadecimal
+5 - Hexadecimal to Decimal
+6 - Hexadecimal to Binary
+7 - Quit
+Choice: 4
+Please enter a 32-bit binary number (No space between nibbles): 01111111111111110010000111010011
+Binary to Hexadecimal: 7FFF21D3
+
+Choose from these choices
+-------------------------
+
+1 - Decimal to Binary
+2 - Decimal to Hexadecimal
+3 - Binary to Decimal
+4 - Binary to Hexadecimal
+5 - Hexadecimal to Decimal
+6 - Hexadecimal to Binary
+7 - Quit
+Choice: 4
+Please enter a 32-bit binary number (No space between nibbles): 00101011101011010111011000111010
+Binary to Hexadecimal: 2BAD763A
+
+Choose from these choices
+-------------------------
+
+1 - Decimal to Binary
+2 - Decimal to Hexadecimal
+3 - Binary to Decimal
+4 - Binary to Hexadecimal
+5 - Hexadecimal to Decimal
+6 - Hexadecimal to Binary
+7 - Quit
+Choice: 5
+Please enter an 8-digit hexadecimal number: 12345678
+Hexadecimal to Decimal: 305419896
+
+Choose from these choices
+-------------------------
+
+1 - Decimal to Binary
+2 - Decimal to Hexadecimal
+3 - Binary to Decimal
+4 - Binary to Hexadecimal
+5 - Hexadecimal to Decimal
+6 - Hexadecimal to Binary
+7 - Quit
+Choice: 5
+Please enter an 8-digit hexadecimal number: 2A3DF8A7
+Hexadecimal to Decimal: 708704423
+
+Choose from these choices
+-------------------------
+
+1 - Decimal to Binary
+2 - Decimal to Hexadecimal
+3 - Binary to Decimal
+4 - Binary to Hexadecimal
+5 - Hexadecimal to Decimal
+6 - Hexadecimal to Binary
+7 - Quit
+Choice: 5
+Please enter an 8-digit hexadecimal number: 00FF00FF
+Hexadecimal to Decimal: 16711935
+
+Choose from these choices
+-------------------------
+
+1 - Decimal to Binary
+2 - Decimal to Hexadecimal
+3 - Binary to Decimal
+4 - Binary to Hexadecimal
+5 - Hexadecimal to Decimal
+6 - Hexadecimal to Binary
+7 - Quit
+Choice: 6
+Please enter an 8-digit hexadecimal number: 12345678
+Hexadecimal to Binary: 0001 0010 0011 0100 0101 0110 0111 1000
+
+Choose from these choices
+-------------------------
+
+1 - Decimal to Binary
+2 - Decimal to Hexadecimal
+3 - Binary to Decimal
+4 - Binary to Hexadecimal
+5 - Hexadecimal to Decimal
+6 - Hexadecimal to Binary
+7 - Quit
+Choice: 6
+Please enter an 8-digit hexadecimal number: 2A3DF8A7
+Hexadecimal to Binary: 0010 1010 0011 1101 1111 1000 1010 0111
+
+Choose from these choices
+-------------------------
+
+1 - Decimal to Binary
+2 - Decimal to Hexadecimal
+3 - Binary to Decimal
+4 - Binary to Hexadecimal
+5 - Hexadecimal to Decimal
+6 - Hexadecimal to Binary
+7 - Quit
+Choice: 6
+Please enter an 8-digit hexadecimal number: 00FF00FF
+Hexadecimal to Binary: 0000 0000 1111 1111 0000 0000 1111 1111
+
+Choose from these choices
+-------------------------
+
+1 - Decimal to Binary
+2 - Decimal to Hexadecimal
+3 - Binary to Decimal
+4 - Binary to Hexadecimal
+5 - Hexadecimal to Decimal
+6 - Hexadecimal to Binary
+7 - Quit
+Choice: 1
+Please enter a Decimal number between 0 and 2,147,483,647: -5
+Please enter a Decimal number between 0 and 2,147,483,647: -5
+Please enter a Decimal number between 0 and 2,147,483,647: -5
+Please enter a Decimal number between 0 and 2,147,483,647: 1
+Decimal to Binary: 0000 0000 0000 0000 0000 0000 0000 0001
+
+Choose from these choices
+-------------------------
+
+1 - Decimal to Binary
+2 - Decimal to Hexadecimal
+3 - Binary to Decimal
+4 - Binary to Hexadecimal
+5 - Hexadecimal to Decimal
+6 - Hexadecimal to Binary
+7 - Quit
+Choice: 2
+Please enter a Decimal number between 0 and 2,147,483,647: -5
+Please enter a Decimal number between 0 and 2,147,483,647: -5
+Please enter a Decimal number between 0 and 2,147,483,647: -5
+Please enter a Decimal number between 0 and 2,147,483,647: 1
+Decimal to Hexadecimal: 00000001
+
+Choose from these choices
+-------------------------
+
+1 - Decimal to Binary
+2 - Decimal to Hexadecimal
+3 - Binary to Decimal
+4 - Binary to Hexadecimal
+5 - Hexadecimal to Decimal
+6 - Hexadecimal to Binary
+7 - Quit
+Choice: 3
+Please enter a 32-bit binary number (No space between nibbles): -5000
+Please enter a 32-bit binary number (No space between nibbles): 100000000000000000000000000000000000000000001
+Please enter a 32-bit binary number (No space between nibbles): 00000000000000000000000000000001
+Binary to Decimal: 1
+
+Choose from these choices
+-------------------------
+
+1 - Decimal to Binary
+2 - Decimal to Hexadecimal
+3 - Binary to Decimal
+4 - Binary to Hexadecimal
+5 - Hexadecimal to Decimal
+6 - Hexadecimal to Binary
+7 - Quit
+Choice: 4
+Please enter a 32-bit binary number (No space between nibbles): -5000
+Please enter a 32-bit binary number (No space between nibbles): 1000000000000000000000000000000000000000001
+Please enter a 32-bit binary number (No space between nibbles): 0001
+Please enter a 32-bit binary number (No space between nibbles): 00000000000000000000000000000001
+Binary to Hexadecimal: 00000001
+
+Choose from these choices
+-------------------------
+
+1 - Decimal to Binary
+2 - Decimal to Hexadecimal
+3 - Binary to Decimal
+4 - Binary to Hexadecimal
+5 - Hexadecimal to Decimal
+6 - Hexadecimal to Binary
+7 - Quit
+Choice: 5
+Please enter an 8-digit hexadecimal number: ZYX12345
+Please enter an 8-digit hexadecimal number: -519GKOP
+Please enter an 8-digit hexadecimal number: 1
+Please enter an 8-digit hexadecimal number: 00000001
+Hexadecimal to Decimal: 1
+
+Choose from these choices
+-------------------------
+
+1 - Decimal to Binary
+2 - Decimal to Hexadecimal
+3 - Binary to Decimal
+4 - Binary to Hexadecimal
+5 - Hexadecimal to Decimal
+6 - Hexadecimal to Binary
+7 - Quit
+Choice: 6
+Please enter an 8-digit hexadecimal number: zYX421456t
+Please enter an 8-digit hexadecimal number: 12345ZP
+Please enter an 8-digit hexadecimal number: 00000001
+Hexadecimal to Binary: 0000 0000 0000 0000 0000 0000 0000 0001
+
+Choose from these choices
+-------------------------
+
+1 - Decimal to Binary
+2 - Decimal to Hexadecimal
+3 - Binary to Decimal
+4 - Binary to Hexadecimal
+5 - Hexadecimal to Decimal
+6 - Hexadecimal to Binary
+7 - Quit
+Choice: 7
