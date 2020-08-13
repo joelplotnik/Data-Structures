@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"Driver"},{"p":"<Unnamed>","l":"EvalPostFix"},{"p":"<Unnamed>","l":"InfixToPostfix"},{"p":"<Unnamed>","l":"ObjectStack"},{"p":"<Unnamed>","l":"ObjectStackInterface"}]
