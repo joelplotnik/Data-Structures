@@ -1,0 +1,66 @@
+*******************************
+* INFIX TO POSTFIX CONVERSION *
+*******************************
+Infix expression: 8 + 4 * 2 - 6
+Postfix expression: 842*+6-
+
+Infix expression: 7 * 2 - 4 * 3 + 2 * 5
+Postfix expression: 72*43*-25*+
+
+Infix expression: 2 * 3 * 4 - 8 + 9 / 3 / 3
+Postfix expression: 23*4*8-93/3/+
+
+Infix expression: 5 + 7 * 4 - 6
+Postfix expression: 574*+6-
+
+Infix expression: 4 * ( 3 + 2 * 4 ) - 7
+Postfix expression: 4324*+*7-
+
+Infix expression: ( 5 + 7 ) / ( 9 - 5 )
+Postfix expression: 57+95-/
+
+Infix expression: 3 * ( 5 * ( 5 - 2 ) ) - 9
+Postfix expression: 3552-**9-
+
+Infix expression: ( ( 5 * ( 4 + 2 ) - ( 8 + 8 ) / 2 ) - 9 ) ^ 3
+Postfix expression: 542+*88+2/-9-3^
+
+Infix expression: ( ( 5 + 5 * ( 6 - 2 ) + 4 ^ 2 ) * 8 )
+Postfix expression: 5562-*+42^+8*
+
+Infix expression: ( ( ( 3 ^ 4 ) ) )
+Postfix expression: 34^
+
+*******************************
+*     POSTFIX EVALUATIONS     *
+*******************************
+Postfix expression: 842*+6-
+Evaluation: 10
+
+Postfix expression: 72*43*-25*+
+Evaluation: 12
+
+Postfix expression: 23*4*8-93/3/+
+Evaluation: 17
+
+Postfix expression: 574*+6-
+Evaluation: 27
+
+Postfix expression: 4324*+*7-
+Evaluation: 37
+
+Postfix expression: 57+95-/
+Evaluation: 3
+
+Postfix expression: 3552-**9-
+Evaluation: 36
+
+Postfix expression: 542+*88+2/-9-3^
+Evaluation: 2197
+
+Postfix expression: 5562-*+42^+8*
+Evaluation: 328
+
+Postfix expression: 34^
+Evaluation: 81
+
